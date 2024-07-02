@@ -1,0 +1,10 @@
+Python (version 3.6 or higher)
+Required Python libraries (install via pip):
+transformers (for working with transformer models)
+torch (PyTorch framework)
+tensorflow (TensorFlow framework)
+sentencepiece (for tokenization)
+nltk (Natural Language Toolkit for NLP tasks)
+beautifulsoup4 (for HTML/XML parsing)
+pandas (data manipulation and analysis)
+numpy (numerical computing)
